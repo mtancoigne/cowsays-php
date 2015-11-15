@@ -40,7 +40,7 @@ Simple Cowsay : no options except text
 
 Dead, thinkinkg cow:
 
-
+```
 /-----------------\
 ( Good night, s13 )
 \-----------------/
@@ -49,8 +49,10 @@ Dead, thinkinkg cow:
             (__)\       )\/\
              U  ||----w |
                 ||     ||
+```
 
 Beavis :
+
 ```
 /-----------------\
 | Good night, s13 |
@@ -99,6 +101,7 @@ The dragon and the cow
 ```
 
 Dead mutilated cow:
+
 ```
 /----------------\
 | Good night s13 |
